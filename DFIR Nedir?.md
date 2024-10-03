@@ -1,0 +1,29 @@
+# DIGITAL FORENSICS AND INCIDENT RESPONSE (DFIR)
+
+**DFIR (Digital Forensics and Incident Response)**, dijital ortamlarda meydana gelen sıra dışı olayları inceleyen ve bu olaylara anlık müdahale eden bir disiplindir. DFIR uzmanları, veri ihlalleri, zararlı yazılımlar ve hacking gibi dijital/sanal güvenlik olaylarının tespiti, analizi ve müdahale edilmesinde görev alırlar. 
+
+Uzmanlar, bir saldırıdan sonra saldırıya neden olan noktayı bulur, saldırganın sistemde kaldığı süre boyunca gerçekleştirdiği eylemleri analiz ederek bir zaman çizelgesi çıkarır, verilerin kurtarılması konusunda destek sağlar ve güvenli bir ortamın tekrar kurulmasına yardımcı olur.
+
+## DIGITAL FORENSICS (ADLİ BİLİŞİM)
+
+**Digital Forensics (Adli Bilişim)**, bir siber olay sonrasında uç noktalarda (bilgisayar sistemleri, sunucular, ağ cihazları, telefonlar, tabletler, laptoplar) yapılan derinlemesine incelemeleri içerir. Bu süreç, olayın nasıl gerçekleştiğini, ne kadar veri kaybı yaşandığını ve saldırganların sistemde hangi işlemleri gerçekleştirdiğini ortaya çıkarmayı amaçlar.
+
+Adli bilişim kapsamında yapılan işlemler şunları içerir:
+- Sistemlerden veri toplanması ve analiz edilmesi
+- Sistemdeki verilerin kurtarılması
+- Sunucuların tekrar yapılandırılması
+- Bulguların raporlanması
+
+## INCIDENT RESPONSE (OLAY YANITI)
+
+**Incident Response (Olay Yanıtı)**, bir saldırı gerçekleştiğinde alınan acil önlemleri ve olayın tanımlanması süreçlerini kapsar. Incident Response'un amacı, olayın hızlı bir şekilde tespit edilmesi, etkilerinin azaltılması ve saldırıya yanıt verilmesidir.
+
+- **Digital Forensics**, olayların derinlemesine incelenmesi ve delillerin toplanmasıyla ilgilenirken, 
+- **Incident Response** ise olayın tanımlanması, etkilerinin sınırlanması ve saldırıya karşı hızlı aksiyon alınmasını içerir.
+
+## COMPROMISE ASSESSMENTS (İHLAL DEĞERLENDİRMELERİ)
+
+**Compromise Assessments (İhlal Değerlendirmeleri)**, bir şirketin veya kuruluşun altyapısında etkin bir saldırganın var olup olmadığını veya geçmişte bir saldırıya maruz kalıp kalmadığını belirlemek için yapılan analiz çalışmalarını ifade eder. Bu değerlendirmeler sırasında, bilinmeyen güvenlik ihlalleri, kötü amaçlı yazılımlar ve yetkisiz erişim belirtileri tespit edilmeye çalışılır.
+
+- Ağ bileşenleri ve cihazlar üzerinde derinlemesine analizler gerçekleştirilir.
+- Mevcut veya geçmiş tehditleri tespit etmek için etkin değerlendirmeler yapılır.
